@@ -65,7 +65,7 @@ class App extends Component {
       );
 
       
-    }
+    }sdasd
 
     const classes = [];
     if (this.state.persons.length <=2) {
