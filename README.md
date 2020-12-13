@@ -1,1 +1,1 @@
-This project is done entirely with JS.React
+This project is done entirely with ReactJS
